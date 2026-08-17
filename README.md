@@ -18,8 +18,6 @@ A first pass at pulling structured data out of the sources Vahan already skimmed
 
 This is a first pass, not a finished dataset. It's built from Q1–Q2 2026 (Closure #1) data mostly — Closure #2 (July onward) is thin here beyond the vessel-transit collapse. See "Open data gaps" at the bottom of `findings/preliminary_findings.md`.
 
-## For Vahan
-
 Read `findings/preliminary_findings.md` first — it's five observations pulled from this data, each one flagged as a starting point rather than a conclusion.
 
 Then: **what data-related questions do you actually want answered here?** Not "what's the right answer" — what would you want to *look up or calculate* if you had all the data you wanted? A few prompts to react to, if useful:
@@ -29,4 +27,4 @@ Then: **what data-related questions do you actually want answered here?** Not "w
 - How much of the April→June price decline was "the market pricing the ceasefire" vs. "barrels actually flowing again"?
 - Does the rerouting gap (bypass capacity vs. baseline flow) actually explain the size of the realized flow loss, or is something else going on?
 
-Bring back 2-3 questions you'd actually want to chase — those become the next data pull.
+Bring back 2-3 questions you'd actually want to chase
