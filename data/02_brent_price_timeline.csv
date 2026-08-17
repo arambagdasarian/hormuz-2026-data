@@ -1,0 +1,9 @@
+period,metric,value_usd_per_bbl,note,source
+2026-Q1 (pre-conflict baseline implied),Brent,~70-75 (approximate, not directly sourced),"Brent had NOT yet been pulled from a primary 2026-01 source - flag for Vahan to verify against EIA/FRED daily series",unverified
+2026-Q1 post-conflict,Brent % change,+45% vs pre-conflict,"Brent rose more than 45% since conflict onset per Q1 2026 EIA-cited figures",IER (EIA-based)
+2026-04 (April),North Sea Dated average,120.36,monthly average,IEA OMR May 2026
+2026-04 (April),North Sea Dated high,144,intramonth high,IEA OMR May 2026
+2026-04 (April),North Sea Dated low,<100,intramonth low,IEA OMR May 2026
+2026-04 peak (reported elsewhere),Physical crude spot,~150,"physical crude reported surging to record levels near $150/bbl at the height of the crisis, well above futures market prices",EIA/press (general search)
+2026-05 (early May),Brent,~110,early May level,IEA OMR May 2026
+2026-06 (June),Brent monthly average,85,"down $22/bbl from May and $32/bbl from the April 2026 peak",EIA press release 2026-06-09

@@ -1,0 +1,11 @@
+period,metric,value_mbd,note,source
+2026 forecast,world oil demand,104,down 420 kb/d YoY,IEA OMR May 2026
+2026-Q2,demand decline vs prior year,2.45,"OECD -930 kb/d, non-OECD -1.5 mb/d",IEA OMR May 2026
+2026-04,global oil supply,95.1,down 1.8 mb/d from prior month,IEA OMR May 2026
+since 2026-02,total supply losses,12.8,"cumulative losses since February, per IEA; a separate figure elsewhere cites >14 mb/d shut-in and 1B+ cumulative barrels lost",IEA OMR May 2026
+2026 annual forecast,average global supply,102.2,down 3.9 mb/d vs pre-crisis projection,IEA OMR May 2026
+2026-04,OPEC total production,20.18,,IEA OMR May 2026
+2026-04,non-OPEC total production,13.95,,IEA OMR May 2026
+2026-04,OPEC+ total production,34.13,,IEA OMR May 2026
+2026-Q2,refinery throughput forecast,78.7,down 4.5 mb/d,IEA OMR May 2026
+2026 annual,refinery throughput forecast,82.3,down 1.6 mb/d,IEA OMR May 2026

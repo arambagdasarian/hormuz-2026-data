@@ -1,0 +1,10 @@
+period,vessel_type,premium_pct_of_hull_value,cost_per_voyage_usd,note,source
+pre-crisis baseline,VLCC,0.15-0.225%,150000-225000,"normal 7-day war risk cover cost pre-conflict",Lloyd's List / FairwayETA (via search)
+pre-crisis baseline,Suezmax ($100M hull),0.25%,250000,baseline example used for comparison,Lloyd's List (via search)
+2026-03-02 (within 48h of Feb 28 strikes),all Gulf transits,"5x baseline (some quotes ~60x)",,"premiums surged fivefold within 48 hours; some replacement quotes at roughly 60x pre-crisis rates; JWC redesignated entire Arabian Gulf as a conflict zone",Lloyd's List (via search)
+2026-03-04ish (~1 week after Feb 28),all Gulf transits,"10x baseline, then further doubling within the week",,"premiums up 10-fold on pre-attack levels, more than doubling again within the following week",Lloyd's List (via search)
+2026-03-11,high-risk transits,7.5% (approaching 10%+),,escalating further per Lloyd's List reporting,Lloyd's List (via search)
+crisis peak,Suezmax ($100M hull) at 1%,1%,1000000,mid-crisis example,FairwayETA/Lloyd's List (via search)
+crisis peak,Suezmax ($100M hull) at 3%,3%,3000000,high-crisis example,FairwayETA/Lloyd's List (via search)
+crisis peak,VLCC at 5%,5%,5000000-7500000,high-crisis example given as $5-7.5M/voyage,FairwayETA/Lloyd's List (via search)
+crisis (2026-Q1),tanker traffic through Hormuz,n/a,n/a,"traffic collapsed by more than 80% following the Feb 28 event",Lloyd's List / LMA (via search)

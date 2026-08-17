@@ -1,0 +1,9 @@
+period,category,flow_mbd,note,source
+2025 (annual avg baseline),total (crude + products),20,"'average of 20 mb/d shipped in 2025' - EIA baseline figure",EIA (World Oil Transit Chokepoints, via search)
+2025-Q4,total,20.7,pre-crisis quarter immediately before closure,IER (EIA-based)
+2025 (prior year comparison),total,20.4,year-ago comparison used in EIA Q1 2026 report,IER (EIA-based)
+2026-Q1,total,14.6,"~30% YoY decline, ~6 mb/d QoQ loss vs Q4 2025",IER (EIA-based)
+2026-Q1,crude oil only,10.7,roughly three-quarters of Q1 total flow,IER (EIA-based)
+2026-Q1,petroleum products/liquids,3.9,remainder of Q1 total flow,IER (EIA-based)
+baseline (pre-crisis daily vessel count),vessel transits/day,88-130,"range reported for normal daily transits (count of vessels, not mb/d)",CSIS/press tracking
+2026-07-23,vessel transits/day,~10,"collapse during Closure #2, vs 88-130/day baseline",CSIS/press tracking

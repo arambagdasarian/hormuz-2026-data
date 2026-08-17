@@ -1,0 +1,10 @@
+period,region,metric,value,note,source
+2026-03,global,inventory drawdown,129 mb,monthly total drawdown,IEA OMR May 2026
+2026-04,global,inventory drawdown,117 mb,monthly total drawdown,IEA OMR May 2026
+2026-04,global,on-land drawdown,170 mb (-5.7 mb/d rate),,IEA OMR May 2026
+2026-04,OECD,on-land drawdown,146 mb (-4.9 mb/d rate),,IEA OMR May 2026
+2026-04,global,oil on water,+53 mb rebound,,IEA OMR May 2026
+2026-03 to 2026-04,global,total drawdown,250 mb (4 mb/d rate),combined two-month figure,IEA OMR May 2026
+2026-Q1 end,United States,strategic reserve level,413 mb (of 714 mb capacity),SPR level,IER (EIA-based)
+2026-Q1 end,China,strategic reserve level,"1,541 mb (up from 1,397 mb in Q4 2025)",SPR level,IER (EIA-based)
+2026 (general),OECD,inventory level,lowest since 2003,qualitative note - find exact mb figure if available,general search summary

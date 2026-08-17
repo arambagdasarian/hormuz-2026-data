@@ -1,0 +1,5 @@
+pipeline,country,design_capacity_mbd,spare_capacity_early_2026_mbd,note,source
+Petroline (East-West Pipeline),Saudi Arabia,7,3-5,"design capacity 5 mb/d originally, expanded to ~7 mb/d as of March 2025",EIA/IER (via search)
+Abu Dhabi Crude Oil Pipeline (Habshan-Fujairah),UAE,1.8,,"runs Habshan to Fujairah on Gulf of Oman, bypasses Hormuz entirely; cited as 1.5 mb/d in one source and up to 1.8 mb/d in another",EIA/IER (via search)
+Combined Saudi+UAE bypass (max),Saudi Arabia + UAE,~9,2.6,"~9 mb/d combined max capacity; ~2.6 mb/d reported as unused/spare capacity actually available during the disruption",IER (via search)
+Hormuz baseline flow (for comparison),n/a,20,n/a,"included for scale: bypass capacity covers well under half of the ~20 mb/d baseline strait flow - this is the 'rerouting gap'",EIA (via search)

@@ -1,0 +1,11 @@
+date,event,category,source
+2026-02-28,"Iran shuts Strait of Hormuz to normal commercial traffic following coordinated US-Israeli airstrikes on Iran",closure_start,IER/EIA
+2026-03-11,"War risk quotes for high-risk transits reach ~7.5%, approaching 10%+",insurance,Lloyd's List
+2026-03-27,"Howden Re publishes Strait of Hormuz market report on repriced war risk",insurance,Howden Re
+2026-04-01,"Brent physical price near peak (~$144/bbl intramonth high; dated premium to ICE Brent ~$35/bbl)",price,IEA OMR May 2026
+2026-04-15,"US-Iran ceasefire reached",de-escalation,search summary (CNN/context)
+2026-06-17,"Memorandum of understanding reopens Strait toll-free; traffic stays well below normal baseline",reopening,search summary
+2026-07-06,"Ceasefire breaks down; renewed attacks on commercial vessels begin (9+ vessels hit since this date)",closure_2_start,CNN/CNBC
+2026-07-17,"Maritime risk executives describe conditions as a 'worst case scenario' for tankers",closure_2,CNBC
+2026-07-23,"Vessel transits fall to ~10/day vs pre-crisis baseline of 88-130/day",traffic,CSIS/press tracking
+2026-08-05,"Strait effectively closed to routine commercial shipping; Trump says reopening 'soon'",closure_2,CNN
