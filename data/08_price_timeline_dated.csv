@@ -1,0 +1,19 @@
+date,brent_usd_bbl,event_note,source
+2026-01-01,61,Q1 2026 opening baseline,EIA (Q1 2026 crude price report)
+2026-02-27,72,day before airstrikes; risk premium already building from Jan-Feb,EIA (via search)
+2026-02-28,,"Sat - US-Israel joint airstrikes on Iran; no trading (weekend)",multiple
+2026-03-03,84,"first trading day after strikes; same day JWC published JWLA-033 expanding listed war-risk area",EIA/TradingEconomics
+2026-03-04,84,+3.19% vs prior day,TradingEconomics
+2026-03-11,,"Petroline reaches physical max throughput of 7 mb/d same week",Fortune/CNBC
+2026-03-12,100,Iran supreme leader reaffirms Strait will stay closed,Katadata/press
+2026-03-31,118,"Q1 close; March monthly gain +51% (largest inflation-adj monthly gain since 1988 per EIA)",EIA
+2026-04 (month),"high 144 / low <100 / avg 120.36","huge intramonth swing - ceasefire (Apr 7-8) falls inside this same month",IEA OMR May 2026
+2026-04-07,,"US-Iran 2-week ceasefire agreed, brokered by Pakistan",UN News/PBS/Wikipedia
+2026-05 (early month),~110,,IEA OMR May 2026
+2026-06 (month avg),85,"down $22/bbl from May, $32/bbl from April peak",EIA press release 2026-06-09
+2026-06-17,,"US-Iran sign MOU to reopen Hormuz to commercial shipping",CNBC (Aug 10 retrospective)
+2026-07-06,,"MOU collapses; renewed attacks on tankers begin",CNN/CNBC
+2026-08-10,87.72,~5% higher on the day amid deal uncertainty,CNBC
+2026-08-12,90,+2%+ overnight,Al Jazeera
+2026-08-21,94.4,local peak after truce lapses without extension,LiteFinance
+2026-08-21 to 2026-09-01,"86-91 (range)",trading range since Aug 21 peak,LiteFinance

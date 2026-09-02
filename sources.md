@@ -19,3 +19,18 @@
 
 ## Notes on reliability
 Several figures were pulled via web search summaries rather than direct primary-document reads (marked in each CSV's `source` column). Treat anything not sourced directly to IEA/EIA as needing a confirm pass before it goes in a final paper — this repo is a research starting point, not a citable dataset on its own.
+
+## Round 2 sources (added for Vahan's 3 chosen questions)
+- EIA, ["Crude oil and petroleum product prices increased sharply in the first quarter of 2026"](https://www.eia.gov/todayinenergy/detail.php?id=67424) — Jan 1 baseline ($61/bbl), Feb 27 pre-strike price ($72/bbl), Q1 close ($118/bbl)
+- TradingEconomics, [Brent Crude Oil](https://tradingeconomics.com/commodity/brent-crude-oil) — March 3-4 daily prices
+- Katadata, ["Iran continues to close the Strait of Hormuz, oil prices break US$100 per barrel"](https://databoks.katadata.co.id/en/datapublish/2026/03/13/iran-continues-to-close-the-strait-of-hormuz-oil-prices-break-us100-per-barrel) — March 12 price point
+- CNBC, ["The two oil pipelines helping Saudi Arabia and UAE bypass the Strait of Hormuz"](https://www.cnbc.com/2026/03/12/strait-of-hormuz-oil-pipelines-iran-war-saudi-arabia-uae.html)
+- Fortune, ["Saudi pipeline to bypass Hormuz hits 7 million barrel goal"](https://fortune.com/2026/03/28/saudi-arabia-east-west-oil-pipeline-strait-hormuz-bypass-7-million-barrels-yanbu-red-sea/) — actual Petroline loadings data
+- Engineering News-Record, ["Hormuz Bypass Infrastructure Was Sized for a Short Disruption. This Is Not That."](https://www.enr.com/articles/62677-hormuz-bypass-infrastructure-was-sized-for-a-short-disruption-this-is-not-that)
+- MercoPress, ["Saudi Arabia diverts more crude to the Red Sea to bypass Hormuz..."](https://en.mercopress.com/2026/03/17/saudi-arabia-diverts-more-crude-to-the-red-sea-to-bypass-hormuz-but-alternative-capacity-remains-limited)
+- UN News, ["Iran ceasefire raises hopes for re-opening key Strait of Hormuz"](https://news.un.org/en/story/2026/04/1167270) — April 7-8 ceasefire date
+- CNBC, ["Oil prices today: Uncertainty over U.S.-Iran Strait of Hormuz deal"](https://www.cnbc.com/2026/08/10/oil-prices-today-brent-wti-hormuz-trump-iran.html) — Aug 10 price, June 17 MOU date, Kpler export figures
+- Al Jazeera, ["Oil prices rise as attacks dent hopes for Strait of Hormuz reopening"](https://www.aljazeera.com/economy/2026/8/12/oil-prices-rise-as-attacks-dent-hopes-for-strait-of-hormuz-reopening) — Aug 12 price, Kpler export figures
+- LiteFinance, ["Brent Prices Rise as Hormuz Disruptions Fuel Supply Concerns"](https://www.litefinance.org/blog/analysts-opinions/oil-price-prediction-forecast/brent-prices-rise-as-hormuz-disruptions-fuel-supply-concerns-forecast-as-of-20082026/) — Aug 21 peak and post-peak range
+- The Insurer, ["Joint War Committee extends listed areas around Arabian Peninsula"](https://www.theinsurer.com/ti/news/joint-war-committee-extends-listed-areas-around-arabian-peninsula-2026-03-03/) — exact March 3 JWLA-033 circular date
+- Lloyd's Market Association, [JWLA-033 circular (PDF)](https://lmalloyds.com/wp-content/uploads/2026/03/JWLA-033_Iran.pdf)
