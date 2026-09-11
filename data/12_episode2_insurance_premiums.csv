@@ -1,0 +1,9 @@
+date,event,premium_pct_hull_value,note,source
+2026-02-28,Episode 1 - strikes (day 0),0.25,pre-war baseline right before Episode 1,Insurance Business / The National
+2026-03-11,Episode 1 - day 11,7.5-10,high-risk quotes reached this level 11 days after the strikes,Lloyd's List (see data/11); confirmed by Insurance Business "as high as 10% at peak"
+2026-06-17,MOU signed / Strait reopens,0.4-0.8,"reported by Vahan citing Financial Express; not independently re-fetched (site blocked direct access) - treat as reported-but-unverified until re-checked",Financial Express (via Vahan)
+2026-06-27,Renewed hostilities undermine the ceasefire,,"first wobble, ~10 days after reopening, before the full breakdown",Insurance Business
+2026-06-28,Episode 2 precursor - just after the June 27 wobble,3-8,"'current estimates' at time of article publication - already close to Episode 1's peak, achieved after just a partial incident, not the full second closure",Insurance Business
+2026-07-06 to 2026-07-08,Episode 2 - ceasefire fully breaks down (day 0),,see data/01_event_timeline.csv,CNN/CNBC
+2026-07-17,Episode 2 - day ~11,3-10,"'rates can be anywhere between 3% and 10% on hull value' - Marcus Baker, Marsh; described as a 'roller coaster'",The National
+2026-07-22 to 2026-07-23,Episode 2 - day ~16-17,7.5-10,"reported as having 'jumped from 1-3% of hull value weeks ago to 7.5-10% currently'",S&P Global / Al Jazeera (via search, not independently re-fetched)
